@@ -549,6 +549,10 @@ footer {
     line-height: 52px;
     margin-bottom: 100px;
   }
+  [class*=__container] {
+    margin: 0;
+    padding: 0 20px;
+  }
   .start__vector {
     display: none;
   }
