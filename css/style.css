@@ -553,6 +553,9 @@ footer {
     margin: 0;
     padding: 0 20px;
   }
+  .download__container {
+    padding: 50px;
+  }
   .start__vector {
     display: none;
   }
